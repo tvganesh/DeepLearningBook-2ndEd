@@ -2,9 +2,6 @@
 
 Table of Contents
 
-# Deep Leaning from first principles in vectorized Python, R and Octave
-
-Table of Contents
 Preface 4
 Introduction 6
 1. Logistic Regression as a Neural Network - 8
